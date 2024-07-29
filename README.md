@@ -1,7 +1,7 @@
 # SLEventDispatcher
 
 
-# 一个简易、高校的替代NSNotificationCenter的方案
+# 一个简易、高效的替代NSNotificationCenter的方案
 
 类似于系统的`NSNotificationCenter`,用于通知事件，然后各个订阅者触发各自的函数
 
